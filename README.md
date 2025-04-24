@@ -1,6 +1,6 @@
 # Bean there Brew'd 
 
-                  ![BEAN THERE (1)](https://github.com/user-attachments/assets/99c092c4-42d5-4300-8d4e-6cbdf78c80de)
+ ![BEAN THERE (1)](https://github.com/user-attachments/assets/99c092c4-42d5-4300-8d4e-6cbdf78c80de)
 
 
 ## Mission Statement:
