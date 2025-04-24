@@ -1,6 +1,5 @@
 # Bean there Brew'd 
 
-BEAN THERE(1).png
 
 ## DATA TALBES
 
