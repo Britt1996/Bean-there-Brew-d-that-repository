@@ -8,6 +8,9 @@
 ## Mission Statement:
    To sell organic coffee that is both good and good for the environment.
 
+## DATA EXTRACTION
+
+## DATA CLEANING
 
 ## DATA TALBES
 
@@ -59,7 +62,7 @@
 | roast_ground_domestic_consumption |  |
 | soluble_domestic |  |
 
-
+## REFERENCES
 
 
 
